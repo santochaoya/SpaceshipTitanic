@@ -4,7 +4,7 @@ This is the practice of the Competition on Kaggle
 ## Dataset Description
 
 * **train.csv** - Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
-  * ```PassengerId``` - A unique id for each passenger. Each id takes from ```gggg_pp``` where ```gggg``` indicates a group the passenger is travelling with and ```pp`` is their number within the group. People in a group a often family member, but not always.
+  * ```PassengerId``` - A unique id for each passenger. Each id takes from ```gggg_pp``` where ```gggg``` indicates a group the passenger is travelling with and ```pp``` is their number within the group. People in a group a often family member, but not always.
   * ```HomePlanet``` - The planet the passenger departed from, typically their planet of pernanment residence.
   * ```CryoSleep``` - Indicates whether the passenger elected to be put into suspended animation for the duration of the voyage. Passengers in cryosleep are confirmed to their cabins.
   * ```Cabin``` - The cabin number where the passenger in staying. Takes the form ```deck/num/side```, where ```side``` can be either ```P``` for Port or ```S``` for Starboard.
